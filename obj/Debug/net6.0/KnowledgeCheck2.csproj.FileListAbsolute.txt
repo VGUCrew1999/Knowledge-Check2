@@ -1,0 +1,15 @@
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\bin\Debug\net6.0\KnowledgeCheck2.exe
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\bin\Debug\net6.0\KnowledgeCheck2.deps.json
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\bin\Debug\net6.0\KnowledgeCheck2.runtimeconfig.json
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\bin\Debug\net6.0\KnowledgeCheck2.dll
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\bin\Debug\net6.0\KnowledgeCheck2.pdb
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\obj\Debug\net6.0\KnowledgeCheck2.csproj.AssemblyReference.cache
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\obj\Debug\net6.0\KnowledgeCheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\obj\Debug\net6.0\KnowledgeCheck2.AssemblyInfoInputs.cache
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\obj\Debug\net6.0\KnowledgeCheck2.AssemblyInfo.cs
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\obj\Debug\net6.0\KnowledgeCheck2.csproj.CoreCompileInputs.cache
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\obj\Debug\net6.0\KnowledgeCheck2.dll
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\obj\Debug\net6.0\refint\KnowledgeCheck2.dll
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\obj\Debug\net6.0\KnowledgeCheck2.pdb
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\obj\Debug\net6.0\KnowledgeCheck2.genruntimeconfig.cache
+C:\Users\kenkf\Desktop\CodingProjects\KnowledgeCheck2\obj\Debug\net6.0\ref\KnowledgeCheck2.dll
